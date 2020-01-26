@@ -1,11 +1,5 @@
 # AutoPkg-Recipes
 
-Recipes for use with [AutoPkg](https://github.com/autopkg/autopkg), including the following applications:
+These recipes have been moved into the official [AutoPkg](https://github.com/autopkg/autopkg) organization repository at:
 
-### Camera Bits, Inc.
-* Photo Mechanic 5
-* [Photo Mechanic 6](https://home.camerabits.com/tour-photo-mechanic/)
-* Photo Mechanic Plus (public beta)
-
-### Micromat, Inc.
-* [MachineProfile](https://www.micromat.com/products/machineprofile)
+https://github.com/autopkg/kevinmcox-recipes
